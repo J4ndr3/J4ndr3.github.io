@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cce79fb.chunk.css",
+    "main.js": "/static/js/main.74dea999.chunk.js",
+    "main.js.map": "/static/js/main.74dea999.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d1c7af63.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d1c7af63.js.map",
+    "static/css/2.e3a36ae3.chunk.css": "/static/css/2.e3a36ae3.chunk.css",
+    "static/js/2.b0d3f48d.chunk.js": "/static/js/2.b0d3f48d.chunk.js",
+    "static/js/2.b0d3f48d.chunk.js.map": "/static/js/2.b0d3f48d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e3a36ae3.chunk.css.map": "/static/css/2.e3a36ae3.chunk.css.map",
+    "static/css/main.4cce79fb.chunk.css.map": "/static/css/main.4cce79fb.chunk.css.map",
+    "static/js/2.b0d3f48d.chunk.js.LICENSE.txt": "/static/js/2.b0d3f48d.chunk.js.LICENSE.txt",
+    "static/js/main.74dea999.chunk.js.LICENSE.txt": "/static/js/main.74dea999.chunk.js.LICENSE.txt",
+    "static/media/2PollBreaker.52199a4b.png": "/static/media/2PollBreaker.52199a4b.png",
+    "static/media/Auto Transformer.45813f1b.png": "/static/media/Auto Transformer.45813f1b.png",
+    "static/media/Contactor.9a620cc1.png": "/static/media/Contactor.9a620cc1.png",
+    "static/media/Motor Protection Circuit Breaker.22f040f5.png": "/static/media/Motor Protection Circuit Breaker.22f040f5.png",
+    "static/media/Off Delay.ca323f38.png": "/static/media/Off Delay.ca323f38.png",
+    "static/media/On Delay.b9679b11.png": "/static/media/On Delay.b9679b11.png",
+    "static/media/One phase motor.4ea150c0.png": "/static/media/One phase motor.4ea150c0.png",
+    "static/media/Overload relay.75b3eda5.png": "/static/media/Overload relay.75b3eda5.png",
+    "static/media/Resistor.90b1fea9.png": "/static/media/Resistor.90b1fea9.png",
+    "static/media/Selector Switch.222d35c8.png": "/static/media/Selector Switch.222d35c8.png",
+    "static/media/Start.7603c094.png": "/static/media/Start.7603c094.png",
+    "static/media/Stop.552df45c.png": "/static/media/Stop.552df45c.png",
+    "static/media/Three Phase Motor.eaa7e881.png": "/static/media/Three Phase Motor.eaa7e881.png",
+    "static/media/Trash.5790ec61.svg": "/static/media/Trash.5790ec61.svg",
+    "static/media/breaker.1059acc3.png": "/static/media/breaker.1059acc3.png",
+    "static/media/delete.e4f65559.svg": "/static/media/delete.e4f65559.svg",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.cb5ad999.woff2",
+    "static/media/wire-cutter.0ef829b1.svg": "/static/media/wire-cutter.0ef829b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c7af63.js",
+    "static/css/2.e3a36ae3.chunk.css",
+    "static/js/2.b0d3f48d.chunk.js",
+    "static/css/main.4cce79fb.chunk.css",
+    "static/js/main.74dea999.chunk.js"
+  ]
+}
